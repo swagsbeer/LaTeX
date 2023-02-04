@@ -1,0 +1,42 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.bcf
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Generated documents
+*.dvi
+/out
+*.1
+*.pdf
+*.bbl
+*.tcp
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.Ridx
+*.run.xml
+Abschlussarbeit-*R*.pdf
+Abschlussarbeit-mitR.tex
+.Rhistory
+*.Rproj
+.Rproj.user/**
+*.blg
+*.idx
+*.ind
+*.ilg
+/_minted*
